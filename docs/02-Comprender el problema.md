@@ -1,29 +1,32 @@
-### Mi caso propio: Portafolio de Servicios de Desarrollo Web
+```markdown
+### GUÍA 2 — Actores y necesidades
 
 ## Quiénes están involucrados
 
-- **Santiago:** Dueño del negocio y desarrollador principal.
-- **p1:** Diseñador y desarrollador web (colaborador en proyectos grandes).
-- **Clientes / Contratistas:** Clientes actuales y potenciales que requieren servicios web o soporte técnico.
+- **Santiago Orellana Rivera:** Director de NOCTUA — Beyond Digital y administrador principal del sistema.
+- **Clientes:** Personas o empresas registradas que contratan servicios y requieren dar seguimiento a sus proyectos.
+- **Visitantes:** Usuarios generales que ingresan al sitio web en busca de información de la empresa y sus servicios.
 
 ## Qué problemas tienen hoy
 
-- **Falta de comunicación visual hacia clientes:** Dificultad para mostrar los proyectos ya entregados y la gama completa de servicios ofrecidos (mantenimiento, asesoramiento, etc.).
-- **Retrasos en las entregas:** Dificultad en la gestión de tiempos al trabajar en proyectos de gran escala, lo que pospone las fechas de entrega.
+- **Falta de diferenciación de permisos:** Ausencia de un mecanismo que controle y limite el acceso a las funciones públicas y privadas según el tipo de usuario.
+- **Descentralización de solicitudes y seguimiento:** Dificultad para gestionar mensajes, citas, cotizaciones y estados de avance de proyectos en un solo lugar.
 
 ## Qué esperan del nuevo sistema
 
-- Un catálogo/portafolio digital centralizado donde mostrar proyectos realizados, estado de trabajos en curso y servicios ofertados.
-- Un sistema de seguimiento interno para monitorear proyectos, clientes y fechas límite en tiempo real.
+- Un panel administrativo completo para gestionar clientes, proyectos, servicios, cotizaciones, citas, mensajes y usuarios.
+- Un portal privado para clientes que les permita ver el detalle de sus proyectos, consultar avances, solicitar cotizaciones/reuniones y gestionar su perfil.
+- Una plataforma pública donde los visitantes puedan conocer la información de NOCTUA, ver servicios, proyectos públicos, testimonios y registrarse.
 
 ## Actores del sistema
 
-- **Santiago** (directo): administrar el portafolio, dar seguimiento a proyectos/clientes y controlar fechas de entrega.
-- **p1** (directo): consultar el estado de los trabajos y coordinar entregas de diseño/desarrollo.
-- **Clientes / contratistas** (indirectos): visualizar los servicios disponibles, revisar casos de éxito y solicitar atención más ágil.
+- **Administrador / Santiago Orellana Rivera** (directo): administrar proyectos, clientes, servicios, cotizaciones, citas, mensajes, usuarios y controlar la información del portafolio.
+- **Cliente** (directo): consultar avances de sus proyectos, enviar mensajes, solicitar cotizaciones o reuniones y gestionar su perfil.
+- **Visitante** (indirecto): visualizar la información institucional, explorar servicios, revisar testimonios/contacto y registrarse para acceder a funciones privadas.
 
 ## Planteamiento del problema
 
-Santiago y su equipo tienen el problema de no contar con un medio centralizado para exhibir sus proyectos terminados y gestionar las fechas de entrega, lo cual genera falta de visibilidad ante potenciales clientes, retrasos en proyectos complejos e incomunicación de servicios secundarios.
+NOCTUA — Beyond Digital tiene el problema de no contar con una plataforma que controle y diferencie los accesos entre los distintos tipos de usuarios, lo que dificulta la administración del negocio, limita el seguimiento de proyectos por parte de los clientes e impide la conversión fluida de visitantes.
 
-Una solución exitosa debería **ofrecer un portafolio web interactivo para la captación de clientes y un panel de control simple que permita monitorear el progreso de los proyectos y las fechas de entrega en tiempo real**.
+Una solución exitosa debería **ofrecer un sistema web con gestión de roles y permisos que permita diferenciar claramente las funciones de visitantes, clientes y administrador, centralizando la administración del negocio y el seguimiento de proyectos en tiempo real**.
+```
